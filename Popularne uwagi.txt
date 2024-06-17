@@ -1,0 +1,20 @@
+
+%%%%%%%%%%% UWAGI RYSUNKOWE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% Wymienione zostały popularne uwagi które można zastosować %%%%
+%%%%%%%%%%% w rysunku (wybrać odpowiednie a nie wszystkie) %%%%%%%%%%%%%%%
+
+1. Nietolerowane wymiary wykonać według IT12 PN-ISO 286-1:2011
+2. Ostre krawędzie zatępić
+3. Nieoznaczone fazki 1x45
+4. Nieoznaczone promienie r=1
+5. Wycinać według rysunku DWG
+6. Spawać w osłonie Ar zgodnie z zaleceniami PN-EN 1011-3:2002
+7. Cynkować galwanicznie
+8. Nieoznaczone promienie gięcia (wewnętrzne) równe grubości blachy
+9. Malować proszkowo na kolor RAL 1021
+
+
+%%%%%%%%% Złożenia %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+1. Spawać spoiną pachwinową, wielkość spoiny równa 0,7 grubości cieńszego
+z elementów
