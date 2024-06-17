@@ -1,0 +1,10 @@
+%%%%%%%%%%%%%%%%% Szablon pracy dyplomowej w LaTeX %%%%%%%%%%%%%%%%%
+
+https://github.com/ArturB/WUT-Thesis
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% Struktura bibliografii %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+https://biblio.prz.edu.pl/studenci/jak-sporzadzic-bibliografie
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
